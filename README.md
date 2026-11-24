@@ -46,6 +46,7 @@ Selected work is delivered privately to clients; live demos available on request
 **Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1E3A5F?style=flat)
 
 **Database & Tools**
